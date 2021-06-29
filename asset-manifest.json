@@ -1,0 +1,26 @@
+{
+  "files": {
+    "main.css": "/gartic-frontend/static/css/main.0fc82fbd.chunk.css",
+    "main.js": "/gartic-frontend/static/js/main.bcc18211.chunk.js",
+    "main.js.map": "/gartic-frontend/static/js/main.bcc18211.chunk.js.map",
+    "runtime-main.js": "/gartic-frontend/static/js/runtime-main.02700c7f.js",
+    "runtime-main.js.map": "/gartic-frontend/static/js/runtime-main.02700c7f.js.map",
+    "static/css/2.8c5372c1.chunk.css": "/gartic-frontend/static/css/2.8c5372c1.chunk.css",
+    "static/js/2.b76198cc.chunk.js": "/gartic-frontend/static/js/2.b76198cc.chunk.js",
+    "static/js/2.b76198cc.chunk.js.map": "/gartic-frontend/static/js/2.b76198cc.chunk.js.map",
+    "static/js/3.d460f2ad.chunk.js": "/gartic-frontend/static/js/3.d460f2ad.chunk.js",
+    "static/js/3.d460f2ad.chunk.js.map": "/gartic-frontend/static/js/3.d460f2ad.chunk.js.map",
+    "index.html": "/gartic-frontend/index.html",
+    "static/css/2.8c5372c1.chunk.css.map": "/gartic-frontend/static/css/2.8c5372c1.chunk.css.map",
+    "static/css/main.0fc82fbd.chunk.css.map": "/gartic-frontend/static/css/main.0fc82fbd.chunk.css.map",
+    "static/js/2.b76198cc.chunk.js.LICENSE.txt": "/gartic-frontend/static/js/2.b76198cc.chunk.js.LICENSE.txt",
+    "static/media/broom.94cafbcd.png": "/gartic-frontend/static/media/broom.94cafbcd.png"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.02700c7f.js",
+    "static/css/2.8c5372c1.chunk.css",
+    "static/js/2.b76198cc.chunk.js",
+    "static/css/main.0fc82fbd.chunk.css",
+    "static/js/main.bcc18211.chunk.js"
+  ]
+}
