@@ -1,6 +1,6 @@
 import { useState, useEffect } from "react";
 import {Modal} from 'antd';
-let client = new WebSocket('ws://localhost:8080');
+let client = new WebSocket('wss://fake-garticio.herokuapp.com');
 
 const useGame = ({displayStatus}) =>{
     
