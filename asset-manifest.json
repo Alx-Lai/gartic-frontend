@@ -1,8 +1,8 @@
 {
   "files": {
     "main.css": "/gartic-frontend/static/css/main.0fc82fbd.chunk.css",
-    "main.js": "/gartic-frontend/static/js/main.bcc18211.chunk.js",
-    "main.js.map": "/gartic-frontend/static/js/main.bcc18211.chunk.js.map",
+    "main.js": "/gartic-frontend/static/js/main.72a9669f.chunk.js",
+    "main.js.map": "/gartic-frontend/static/js/main.72a9669f.chunk.js.map",
     "runtime-main.js": "/gartic-frontend/static/js/runtime-main.02700c7f.js",
     "runtime-main.js.map": "/gartic-frontend/static/js/runtime-main.02700c7f.js.map",
     "static/css/2.8c5372c1.chunk.css": "/gartic-frontend/static/css/2.8c5372c1.chunk.css",
@@ -21,6 +21,6 @@
     "static/css/2.8c5372c1.chunk.css",
     "static/js/2.b76198cc.chunk.js",
     "static/css/main.0fc82fbd.chunk.css",
-    "static/js/main.bcc18211.chunk.js"
+    "static/js/main.72a9669f.chunk.js"
   ]
 }
